@@ -1,0 +1,4 @@
+In order to be able to run the code you have to install node.js to your computer.
+Follow the instuctions which are on the internet on node.js to install npm node through your cmd. When install of node.js is completed, you have to create the tables which are included in skills.sql
+
+When you create the tables on your database, the next step of the procession is to create an admin on your database with MD5. If you don't use md5 you won't be able to fully manage the project. MD5 is required when you create your admin. 
